@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 Dodano znowu nowość
+=======
+Najnowszy plik
+>>>>>>> first_branch
